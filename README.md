@@ -79,11 +79,6 @@ Each project contains:
 - **Operating-region verification** for BJT active mode and MOSFET saturation
 - **Waveform cursors** for extracting amplitudes, ripple voltage, and bias conditions
 
-## Source integrity
-
-All included source artifacts are byte-for-byte copies of the uploaded files. SHA-256 hashes are recorded in [`ORIGINAL_FILE_MANIFEST.tsv`](ORIGINAL_FILE_MANIFEST.tsv).
-
-See [`PRESERVATION_POLICY.md`](PRESERVATION_POLICY.md) for the exact editing boundary.
 
 ## Limitations
 
